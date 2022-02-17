@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: darkgrey;
+    
+}
+
+.stopwatch {
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 10px 5px 5px;
+}
+
+p {
+    font-size: 50px;
+    background-color: beige;
+    box-shadow: 10px 5px 5px;
+}
+
+.buttons {
+    background-color: beige;
+    padding: 20px;
+}
+
+button {
+    border: 1px solid blanchedalmond;
+    background-color: aquamarine;
+    font-size: 30px;
+    box-shadow: 10px 5px 5px;
+}
+
+ul {
+    font-size: 20px;
+}
